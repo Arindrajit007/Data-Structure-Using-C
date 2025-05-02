@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650384378 source:g:\sem2\data structure practice\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
