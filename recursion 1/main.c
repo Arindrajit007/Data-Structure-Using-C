@@ -20,5 +20,5 @@ void main()
     printf("\nEnter Second Number - ");
     scanf("%d",&z2);
     multiply(z1,z2);
-
+    printf("%d",multiply);
 }
